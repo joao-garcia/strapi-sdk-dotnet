@@ -1,0 +1,8 @@
+E:\DEV\Personal\strapi-sdk-dotnet\Strapi.SDK\Strapi.SDK\bin\Debug\netstandard2.0\Strapi.SDK.deps.json
+E:\DEV\Personal\strapi-sdk-dotnet\Strapi.SDK\Strapi.SDK\bin\Debug\netstandard2.0\Strapi.SDK.dll
+E:\DEV\Personal\strapi-sdk-dotnet\Strapi.SDK\Strapi.SDK\obj\Debug\netstandard2.0\Strapi.SDK.csprojAssemblyReference.cache
+E:\DEV\Personal\strapi-sdk-dotnet\Strapi.SDK\Strapi.SDK\obj\Debug\netstandard2.0\Strapi.SDK.AssemblyInfoInputs.cache
+E:\DEV\Personal\strapi-sdk-dotnet\Strapi.SDK\Strapi.SDK\obj\Debug\netstandard2.0\Strapi.SDK.AssemblyInfo.cs
+E:\DEV\Personal\strapi-sdk-dotnet\Strapi.SDK\Strapi.SDK\bin\Debug\netstandard2.0\Strapi.SDK.pdb
+E:\DEV\Personal\strapi-sdk-dotnet\Strapi.SDK\Strapi.SDK\obj\Debug\netstandard2.0\Strapi.SDK.dll
+E:\DEV\Personal\strapi-sdk-dotnet\Strapi.SDK\Strapi.SDK\obj\Debug\netstandard2.0\Strapi.SDK.pdb
